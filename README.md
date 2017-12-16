@@ -1,2 +1,6 @@
 # kospr-cli
-Kospr cli library   |Kospr| ---- >   &lt;---|Kospr Cli| --[Comm Drive])))   (((--|Kospr Node|
+Kospr cli library   
+
+```
+|Kospr| ---- >   <---|Kospr Cli| --[Comm Drive])))   (((--|Kospr Node|
+```
